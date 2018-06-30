@@ -1,5 +1,4 @@
 # This is a simple example
-Base on vuex
 
 ```bash
 npm install
